@@ -1,0 +1,30 @@
+ID: 315
+Potrosac: Edin Tabak
+Datum: 24.5.2019.
+Iznos: 45.75
+Vrsta: Privatni
+ID: 309
+Potrosac: Niko Neznanovic
+Datum: 26.5.2019.
+Iznos: 123.45
+Vrsta: Poslovni
+ID: 315
+Potrosac: Edin Tabak
+Datum: 21.4.2019.
+Iznos: 69.13
+Vrsta: Privatni
+ID: 9853
+Potrosac: Univerzitet Zenica
+Datum: 29.5.2019.
+Iznos: 1258.45
+Vrsta: Super
+ID: 315
+Potrosac: Edin Tabak
+Datum: 25.3.2019.
+Iznos: 52.57
+Vrsta: Privatni
+ID: 310
+Potrosac: Huso Husic
+Datum: 24.5.2019.
+Iznos: 83.25
+Vrsta: Poslovni
